@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay Tagade</h1>
+<h1 align="center">Hi 👋, I'm Chinmay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaze10" alt="blaze10" /></a> </p>
