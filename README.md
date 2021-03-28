@@ -10,5 +10,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaze10&show_icons=true&locale=en&layout=compact" alt="blaze10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaze10&show_icons=true&locale=en" alt="blaze10" /></p>
-<br/><br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blaze10&" alt="blaze10" /></p>
